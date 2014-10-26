@@ -1,0 +1,15 @@
+QPushButton {
+	border: 0px solid gray;
+	border-radius: 8px;
+}
+
+QPushButton:hover {
+	color: white;
+	background: rgba( 188, 144, 226, 0.51 );
+}
+
+QLCDNumber {
+	border: 0px solid rgb(76, 255, 0);
+	border-radius: 4px;
+	background: rgba(89, 88, 151, 0.00);
+}

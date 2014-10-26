@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>Resources/1.jpg</file>
+        <file>Resources/blue.png</file>
+        <file>Resources/green.png</file>
+        <file>Resources/purple.png</file>
+        <file>Resources/red.png</file>
+        <file>Resources/head.png</file>
+        <file>Resources/heart.png</file>
+        <file>Resources/ui.qss</file>
+        <file>Resources/Pe.jpg</file>
+    </qresource>
+</RCC>
