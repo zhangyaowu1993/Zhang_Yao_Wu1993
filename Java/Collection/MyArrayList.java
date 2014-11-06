@@ -19,7 +19,7 @@ public class MyArrayList
         System.out.println(al2.isEmpty());         // return container is empty
         System.out.println(al2.remove(1));         // remove object index 1
         System.out.println(al2.remove("Hello"));   // remove object "People" once
-        al2.set(1,"World");                        // set index 1 object to "World"
+        al2.set(1, "World");                       // set index 1 object to "World"
         System.out.println(al2.size());            // return size of container
         Object arr[] = al2.toArray();              // transform ArrayList to Array
         System.out.println(al2);                   // print container
